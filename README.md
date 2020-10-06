@@ -4,9 +4,7 @@
 
 ---
 
-<figure class="video_container">
-  <iframe src="./screen-recording.webm" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+![screen](./rgb-screen.png)
 
 ---
 
