@@ -4,6 +4,8 @@
 
 ---
 
+#### [--- Live Demo ----](https://hello-sheidi.github.io/rgb-game/)
+
 ![screen](./rgb-screen.png)
 
 ---
